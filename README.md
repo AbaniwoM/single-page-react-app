@@ -1,6 +1,8 @@
 ## Single Page React App
 
-This project is hosted on netlify. You can view [here](https://github.com/facebook/create-react-app).
+This project is hosted on netlify. You can view [here](https://single-pg-app.herokuapp.com/).
+
+This project is built with react redux-toolkit
 
 ### Available Scripts
 
